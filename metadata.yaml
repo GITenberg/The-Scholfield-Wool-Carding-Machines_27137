@@ -1,0 +1,28 @@
+_repo: The-Scholfield-Wool-Carding-Machines_27137
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27137-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Cooper, Grace Rogers
+    alias: Rogers, Grace L.
+    gutenberg_agent_id: '32484'
+    url: http://www.gutenberg.org/2009/agents/32484
+description: ''
+gutenberg_bookshelf:
+- Manufacturing
+- Technology
+gutenberg_issued: '2008-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27137'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TS'
+- !lcsh 'Wool-carding'
+title: The Scholfield Wool-Carding Machines
+url: http://www.gutenberg.org/ebooks/27137
